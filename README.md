@@ -1,7 +1,25 @@
-## Hi there! I am Maithili👋
+# Hey, I'm Maithili 👋
 
-# 💫 About Me:
-🔭 I'm currently working on<br>HiFi – a real-time chat app & AptiEase – a placement prep platform<br>👯 I'm looking to collaborate on<br>Full-stack web apps, AI/ML integrations, and open-source developer tools<br>🤝 I'm looking for help with<br> Building scalable full-stack applications and creating better UI/UX designs ,Advanced cloud architecture (AWS) andscaling distributed systems<br>🌱 I'm currently learning<br>Data Science & Visualization, Docker, AWS, and advanced system design<br>💬 Ask me about<br>React, Node.js, UI/UX, Socket.io, Cybersecurity, Java, or how to build production-ready apps<br>⚡ Fun fact<br>I've spent half my days writing code as a Java Full Stack Intern at Infosys and the other half fighting cybercrime at the Cyber Police Station — been a full-stack developer AND a digital detective! 🕵️‍♀️💻
+**Full-Stack Developer · AI/ML Explorer · Cybersecurity Enthusiast**
+
+I build things that sit at the intersection of **AI, full-stack engineering, and real-world problem solving**. Currently working on **Contexta**, an AI-powered PDF chatbot, while exploring **RAG pipelines, LLM applications, and AI-driven products**.
+
+I've built and shipped **real-time applications, collaborative systems, analytics tools, and production-ready backends** — from a Socket.IO-powered collaborative whiteboard to a chat platform supporting 100+ concurrent users. I've also worked across **AI research at eZpedal, MERN development at Infosys, and cybersecurity investigations with the Pimpri-Chinchwad Police Cyber Cell**.
+
+### ⚡ What I'm into
+
+`AI / LLMs` · `RAG` · `Full-Stack Development` · `Real-Time Systems` · `Cloud & DevOps` · `Cybersecurity`
+
+Currently leveling up in **Docker, AWS, system design, distributed systems, and data science & visualization** while building projects that go beyond the tutorial stage.
+
+### 🚀 Let's build something
+
+I'm always down to collaborate on **AI products, full-stack applications, open-source tools, and interesting engineering problems**.
+
+**Build → Break → Learn → Ship → Repeat.** 🧠💻⚡
+
+
+
 
 
 ## 🌐 Socials:
