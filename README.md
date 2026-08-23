@@ -6,6 +6,9 @@ I build things that sit at the intersection of **AI, full-stack engineering, and
 
 I've built and shipped **real-time applications, collaborative systems, analytics tools, and production-ready backends** — from a Socket.IO-powered collaborative whiteboard to a chat platform supporting 100+ concurrent users. I've also worked across **AI research at eZpedal, MERN development at Infosys, and cybersecurity investigations with the Pimpri-Chinchwad Police Cyber Cell**.
 
+### ⚡ Want to have a sneak peek? ..
+https://maithili-mahesh.vercel.app/
+
 ### ⚡ What I'm into
 
 `AI / LLMs` · `RAG` · `Full-Stack Development` · `Real-Time Systems` · `Cloud & DevOps` · `Cybersecurity`
