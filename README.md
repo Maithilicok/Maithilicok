@@ -32,13 +32,18 @@ I'm always down to collaborate on **AI products, full-stack applications, open-s
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,html,js,ts,css,react,tailwind,nodejs,express,socketio,npm,nodemon,mongodb,mysql,gcp,vercel,github,figma&perline=9" />
+<img src="https://skillicons.dev/icons?i=java,html,js,ts,css,react,tailwind,nodejs,express,npm,mongodb,mysql,gcp,vercel,github,figma&perline=8" />
 
 <br/><br/>
 
+<img height="32" src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />
+<img height="32" src="https://img.shields.io/badge/Nodemon-76D04B?style=for-the-badge&logo=nodemon&logoColor=white" />
 <img height="32" src="https://img.shields.io/badge/DaisyUI-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white" />
 <img height="32" src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
 <img height="32" src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+
+<br/>
+
 <img height="32" src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
 <img height="32" src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" />
 <img height="32" src="https://img.shields.io/badge/Windows%20Terminal-4D4D4D?style=for-the-badge&logo=windowsterminal&logoColor=white" />
@@ -46,17 +51,19 @@ I'm always down to collaborate on **AI products, full-stack applications, open-s
 
 </div>
 
+
 # 📊 GitHub Stats:
 
 <div align="center">
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=Maithilicok&theme=dark&hide_border=false" alt="Total contributions" />
+<img src="https://streak-stats.demolab.com/?user=Maithilicok&theme=dark&hide_border=false" alt="Total contributions" />
 
 <br/><br/>
 
 <img height="32" src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Maithilicok&query=$.public_repos&label=Total%20Repositories&style=for-the-badge&color=ff6b9d&labelColor=1f2430&logo=github" alt="Total repositories" />
 
 </div>
+
 
 
 ---
